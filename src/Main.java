@@ -8,7 +8,7 @@ public class Main {
     /**
      * Starts the application
      *
-     * @param args
+     * @param args Passed to program when opened
      */
     public static void main(String[] args) {
 
